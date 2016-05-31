@@ -37,7 +37,7 @@ __credits__ = ["Saullo Oliveira"]
 __license__ = "GPLv3"
 __version__ = "0.1"
 __maintainer__ = "Saullo Oliveira"
-__email__ = "shgo@dca.fee.unincamp.br"
+__email__ = "shgo@dca.fee.unicamp.br"
 __status__ = "Development"
 
 
