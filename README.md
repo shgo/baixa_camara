@@ -1,4 +1,6 @@
 # baixa_camara
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fshgo%2Fbaixa_camara.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fshgo%2Fbaixa_camara?ref=badge_shield)
+
 Código python que baixa os dados dos Web Services da Câmara dos Deputados.
 
 Descrição dos arquivos e pastas:
@@ -19,3 +21,7 @@ Se você deseja baixar informações sobre os deputados, basta executar o comand
 Se você deseja baixar informações sobre as proposições de lei, basta executar o comando `./obter_proposicoes.py -h` para ver a ajuda desse script.
 
 Se você *já baixou* as proposições e deseja obter o inteiro teor de cada uma, basta executar o comando `./obter_inteiro_teor.py -h` para ver a ajuda desse script.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fshgo%2Fbaixa_camara.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fshgo%2Fbaixa_camara?ref=badge_large)
